@@ -1,6 +1,7 @@
 # PowerBIDashboard
-#🔋 Energy Flow Dashboard
-#Tools: Excel, Power BI
+🔋 Energy Flow Dashboard
+
+Tools: Excel, Power BI
 
 📘 Project Overview
 The Energy Flow Dashboard is a data visualization project designed to help stakeholders monitor and optimize energy consumption, production, and distribution. By leveraging raw data and interactive visual tools, the dashboard offers actionable insights to support decision-making and improve operational efficiency.
