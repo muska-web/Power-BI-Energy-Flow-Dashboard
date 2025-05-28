@@ -4,8 +4,10 @@
 **Tools:** Excel, Power BI
 
 
+
 **📘 Project Overview**
 The Energy Flow Dashboard is a data visualization project designed to help stakeholders monitor and optimize energy consumption, production, and distribution. By leveraging raw data and interactive visual tools, the dashboard offers actionable insights to support decision-making and improve operational efficiency.
+
 
 
 **🎯 Objective (STAR Method)**
@@ -17,8 +19,11 @@ The Energy Flow Dashboard is a data visualization project designed to help stake
 **Action:**
 
 Collected and cleaned raw energy data in Excel.
+
 Calculated performance indicators such as energy loss and efficiency rates.
+
 Developed an interactive Power BI dashboard using KPIs, Cards, Clustered column bar chart and line charts.
+
 Integrated drill-downs and real-time data refresh for seamless analysis.
 
 **Result:** Reduced manual reporting time by 40% and significantly enhanced visibility into energy operations, enabling timely and informed energy management decisions.
