@@ -1,4 +1,4 @@
-# PowerBIDashboard
+# Power BI Energy Flow Dashboard
 **🔋 Energy Flow Dashboard**
 
 **Tools:** Excel, Power BI
