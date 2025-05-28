@@ -1,6 +1,5 @@
 # PowerBIDashboard
 🔋 Energy Flow Dashboard
-
 Tools: Excel, Power BI
 
 📘 Project Overview
