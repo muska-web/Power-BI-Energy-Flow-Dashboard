@@ -49,3 +49,8 @@ Open the Power BI file Energy Flow Dashboard.pbit
 Ensure data sources are connected and refresh if necessary
 
 Interact with charts and filters to explore trends and KPIs
+
+
+<img width="574" alt="Dashboard image" src="https://github.com/user-attachments/assets/4ad03d5c-4e99-44a8-9194-bdbac1920bb6" />
+
+
